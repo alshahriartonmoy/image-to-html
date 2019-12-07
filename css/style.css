@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.warpper{
+    width: 990px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: 0 auto;	
+}
+img{
+
+}
+header{
+	background-color: #121b2a;
+padding: 16px 0;
+}
+
+
+
+
+.menu{
+	        margin-bottom: 3px;
+    margin-top: 35px;
+    display: inline;
+    color: white;
+    float: right;
+    margin: 40px 0;
+}
+.menu ul{
+	display: inline;
+
+}
+.menu ul li{
+	list-style: none;
+	display: inline;
+
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	padding: 15px;
+}
